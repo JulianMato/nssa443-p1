@@ -37,23 +37,23 @@ In this paper we will be discussing all components of the customers network that
 # Requirements Analysis:
 
 ## General Requirements     
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nunc mi ipsum faucibus vitae aliquet nec. Habitant morbi tristique senectus et netus et malesuada. Massa eget egestas purus viverra accumsan in nisl. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet. Id aliquet risus feugiat in ante metus dictum at tempor. Diam quam nulla porttitor massa id neque aliquam vestibulum. Habitant morbi tristique senectus et netus et malesuada fames ac. Est ullamcorper eget nulla facilisi. Leo in vitae turpis massa sed elementum tempus egestas sed. Cursus in hac habitasse platea dictumst quisque. Fermentum odio eu feugiat pretium nibh ipsum consequat. Congue mauris rhoncus aenean vel. Condimentum vitae sapien pellentesque habitant morbi tristique.
+This building had only a small network in acounting. The buisness needed to have Computers for employees and secure storage and trasfer of confidential records. They are a government buisness and need their data to be secure but they also needed to be able to share between certaint departments and better analize data. 
 <br>
 <br>
 
 ## Hardware Requirements    
-Nulla facilisi cras fermentum odio eu. Pulvinar elementum integer enim neque volutpat. Gravida quis blandit turpis cursus in. Vitae sapien pellentesque habitant morbi tristique. Diam vel quam elementum pulvinar etiam non quam lacus. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Quisque non tellus orci ac auctor augue mauris. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Scelerisque viverra mauris in aliquam sem fringilla ut morbi. Pharetra vel turpis nunc eget lorem dolor sed viverra. Ut tellus elementum sagittis vitae et leo duis. Id aliquet lectus proin nibh nisl condimentum id venenatis. Tortor dignissim convallis aenean et. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat.
+The company needed an entire network from scratch. They needed a desktop computer per employee as well as a laptop per employee. There were also 54 micro computers to put in classroom labs. Each desktop and micro computer needed a monitor and periferals. We needed to design a network and purchase the hardware to put it in place so we had to buy switches, a support server, and access points to implement the network that they wanted. We planned all of the cat6 cable runs throughout the building as well as the fiber lines connecting our layer 3 switches and the fiber connection under the road to the other building. They wanted a lot of office printers and a larger printer/scanner/coppier, in order to better fit in the buget not everyone could get individual printers but the people we didn't give a printer to are in extream close proximity to the large comunal printer. We mapped where there should be power drops, each power drop would have 4 connections and each internet drop would have 2 connections. 
 <br>
 <br>
 
 ## Software Requirements    
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nunc mi ipsum faucibus vitae aliquet nec. Habitant morbi tristique senectus et netus et malesuada. Massa eget egestas purus viverra accumsan in nisl. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet. Id aliquet risus feugiat in ante metus dictum at tempor. Diam quam nulla porttitor massa id neque aliquam vestibulum. Habitant morbi tristique senectus et netus et malesuada fames ac. Est ullamcorper eget nulla facilisi. Leo in vitae turpis massa sed elementum tempus egestas sed. Cursus in hac habitasse platea dictumst quisque. Fermentum odio eu feugiat pretium nibh ipsum consequat. Congue mauris rhoncus aenean vel. Condimentum vitae sapien pellentesque habitant morbi tristique.
+Since it is a government organization they needed a secure network and a secure storage. the AZURE suite had all of the components needed to build a network that was secure and accessable. We have secure storage set up and backed up with a seperate storage for accounting for added security. AZURE also has active directory so our network has security that insures only people who are allowed to look at or edit something are allowed to view it. We also have office 365 for each person so that they have access to word prossesing, spreadsheet, and presentation software to aid in the recording of information, the analizing of data, and the formation of presentations.  
 <br>
 <br>
 <br>
 
 # Customer Synopsis:
-Nulla facilisi cras fermentum odio eu. Pulvinar elementum integer enim neque volutpat. Gravida quis blandit turpis cursus in. Vitae sapien pellentesque habitant morbi tristique. Diam vel quam elementum pulvinar etiam non quam lacus. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Quisque non tellus orci ac auctor augue mauris. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Scelerisque viverra mauris in aliquam sem fringilla ut morbi. Pharetra vel turpis nunc eget lorem dolor sed viverra. Ut tellus elementum sagittis vitae et leo duis. Id aliquet lectus proin nibh nisl condimentum id venenatis. Tortor dignissim convallis aenean et. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat.
+The customer wanted a network that met the reuirements listed in the document. They were unsure what type of network and seemed to not be particular about how we structured it. They didn't have restrictions on hardware and their only request was that every employee needed a laptop as well as their desktop. 
 <br>
 <br>
 <br>
@@ -98,16 +98,16 @@ Nulla facilisi cras fermentum odio eu. Pulvinar elementum integer enim neque vol
 ## Final
 ![Figure 6](Budget.png "Budget-spread sheet")
 <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nunc mi ipsum faucibus vitae aliquet nec. Habitant morbi tristique senectus et netus et malesuada. Massa eget egestas purus viverra accumsan in nisl. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet. Id aliquet risus feugiat in ante metus dictum at tempor. Diam quam nulla porttitor massa id neque aliquam vestibulum.
+We went a little over budget and it was extreamly dificult to trim it down this much. we also feel that the security in the building is not up to the standards required by government buissnesses and have several plans to discuss further regaurding how to make things more secure. unfortunatly there was no budget to build a networking lab though if we could extend the buget a bit we could get together a rudimentary networking lab.
 <br>
 <br>
 <br>
 
 # Scalability Considerations:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nunc mi ipsum faucibus vitae aliquet nec. Habitant morbi tristique senectus et netus et malesuada. Massa eget egestas purus viverra accumsan in nisl. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet. Id aliquet risus feugiat in ante metus dictum at tempor. Diam quam nulla porttitor massa id neque aliquam vestibulum.
+With the spine and leaf topology you could add more switches to the network following how the existing switches are set up and easily expand to another building or use the AZURE suite to expand to more locations or to expand storage capacity. The wireless network is able to be added to in a similar way and you could add more access points or even other switches with access points connected to expand the network. We also secmented the network into vlans based on department and if nessisary other vlans could be added for incoming departments or more computers could be added to existing networks easily.  
 <br>
 <br>
 <br>
 
 # Summary and Comments for Future Growt:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl nunc mi ipsum faucibus vitae aliquet nec. Habitant morbi tristique senectus et netus et malesuada. Massa eget egestas purus viverra accumsan in nisl. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet. Id aliquet risus feugiat in ante metus dictum at tempor. Diam quam nulla porttitor massa id neque aliquam vestibulum.
+in summary here is a layout, scematics, and price of a new network install. It is an incredibly secure network up to government standards and it turns this building with no technology in it into a very extensive network. There is a secure and redundant Lan with a desktop for each employee. There is a wifi network for all of the classroom computers that will help facilitate learning and that wifi also allows the employees to take their work from their desk to meetings or presentations securly with their secure laptop instead of a flash drive or some less secure medium. There is a guest wifi seperated from the other vlans to keep things secure. the secondary building has a direct connection to the network and the classroom there has micro computers to help learn as well. There is space on the switch to add more connections or even other close buildings and the AZURE suite lets there be other locations that securly connect to the same storage if more locations are founded in the future. 
